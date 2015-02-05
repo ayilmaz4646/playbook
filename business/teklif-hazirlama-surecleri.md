@@ -18,11 +18,11 @@ Aşağıdaki bilgiler teklifde bulunmalıdır.
 
 ## Ücretlendirme
 
-Projenin bedeli adam gün hesabından yapılır. Ücretlendirme de bir indirim yapılmaz, yapılamaz çünkü bizler zamanımızı satan insanlarız. Burada yapılacak her türlü indirim, zararına yapılan işlerdir.
+Projenin bedeli adam gün hesabından yapılır. Ücretlendirme de bir indirim yapılmaz, yapılamaz çünkü zaman satan insanlarız. Burada yapılacak her türlü indirim, zararına yapılan işlerdir.
 
 ## Ödeme Planı
 
-Projelerin ödeme planı projenin süresine göre değişmektedir. Ödemeler aylık olmalıdır ve proje bitiminden en fazla iki ay sonrasın son ödeme alınmış olmalıdır.
+Projelerin ödeme planı projenin süresine göre değişmektedir. Ancak ödemeler aylık olmalıdır ve proje bitiminden en fazla iki ay sonrasın son ödeme alınmış olmalıdır.
 
 Örneğin 4 aylık bir projenin yapılabilecek adil anlaşması, bir peşinat dört taksittir ancak bu ödeme planı müşteri açısından zor olursa yapılabilecek en son ödeme planı bir peşinat, alt taksit olabilir.
 

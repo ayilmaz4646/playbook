@@ -2,8 +2,6 @@
 
 # ERB
 
-* Hiç bir yerde ERB kullanmıyoruz. Haml kullanıyoruz.
-
 # HAML
 
 * http://haml.info/

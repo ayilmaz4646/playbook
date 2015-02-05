@@ -1,6 +1,6 @@
 # Çevik Süreçler
 
-Proje yönetimi için çevik süreçler kullanılır.
+Code2, proje yönetimi için çevik süreçler kullanır.
 
 * [Çevik Manifesto](http://agilemanifesto.org/iso/tr/)
 * [Çevik İlkeler](http://agilemanifesto.org/iso/tr/principles.html)
@@ -17,10 +17,9 @@ Huboard' un proje üzerinde uygulanması için github'da aşağıdaki 6 + 4 etik
 * 3 - Done [HEX: #02E10C]
 * 4 - Reviewed [HEX: #1007E2]
 * 5 - Rejected [HEX: ##F7C6C7]
-* Enhancement [HEX: #84B6EB]
 * Bug [HEX: #FC2929]
 * Future [HEX: #E6E6E6]
-* Question [HEX: #CC307C]
+
 
 Etiketlerin anlamları:
 
@@ -36,18 +35,11 @@ Etiketlerin anlamları:
 code2 projelerinde github'da 4 adet etiket açılır.
 
 * **Bug** - Hata bildirimleri için kullanılır.
-* **Enhancement** - Programdaki bir özelliği veya arayüzü iyileştirmek için kullanılır.
-* **Question** - Soru sormak, öneride bulunmak veya tartışmak için kullanılır.
 * **Future** - Proje süresince müşterinin aklına gelen ancak anlaşmadığımız gelecekte yapılması planlanan işlerdir. Bunlar yapılmaz ancak fikirler unutulmasın diye future etiketi ile etiketlenir.
-
-NOT: 
-
-1. wontfix, dublicate, invalid gibi etiketler kullanılmaz. 
-2. Eğer yeni iş istek varsa buna etiket yapılmaz. 
 
 # Semantik Versiyonlama
 
-code2 olarak www.semver.org adresinde ki standartlara göre versiyonlama yapıyoruz. Bu reponun Türkçesini https://github.com/code2/semver/blob/master/semver_tr.md adresinde bulabilirsiniz.
+code2 olarak www.semver.org adresinde ki standartlara göre versiyonlama yapıyoruz. Bu reponun Türkçesini https://github.com/lab2023/semver/blob/master/semver_tr.md adresinde bulabilirsiniz.
 
 **Kurallar**
 

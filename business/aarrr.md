@@ -2,6 +2,8 @@
 
 AARRR, [Dave McClure](https://twitter.com/davemcclure) tarafından internet projelerinin başarılarının ölçülmesini sağlayan beş aşamadan oluşan bir yöntemdir.
 
+**Web uygulamalarınızın kullanıcı potansiyeline ulaşması ve tutunması AARRR ile mümkündür.**
+
 Peki nedir bu beş aşama?
 
 * **Toplama** (Acquisition) kullanıcılar değişik kanallardan siteye gelirler.

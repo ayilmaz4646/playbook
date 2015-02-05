@@ -1,4 +1,4 @@
-# Git, Github, Git flow
+# Git, Github, Git flow Akışları
 
 ## Git
 

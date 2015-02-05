@@ -1,6 +1,6 @@
 # JAVASCRIPT
 
-# JQuery
+# JQuery ve Bileşenleri
 
 * http://jquery.com/
 * http://try.jquery.com/

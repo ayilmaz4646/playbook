@@ -2,7 +2,7 @@
 
 ## SRP	- Tek Sorumluluk Prensibi (Single responsibility principle)
 
-Bir sınıfın tek bir sorumluluğu olmalıdır. Örneğin aşağıdaki `User` sınıfında kullanıcının yaratılması, silinmesi, 
+Bir sınıfın tek bir sorumluluğu olmalıdır. Örneğin aşağıdaki `User` sınıfında kullanıcının yaratılması, silinmesi,
 kayıttan sonra email atılması, login logout olması gibi çok fazla sorumluluk vardır.
 
 ```ruby

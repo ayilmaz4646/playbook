@@ -13,7 +13,7 @@ Bir işi yapmadan önce yapılması gereken işlerin listesidir.
 
 Aşağıdaki kontrol listesini açık Kaynaklı veya özel projeler için uygulayınız.
 
-**Müşteri adına açılacak hesaplar**
+**Müşteri adına gerekliyse açılacak hesaplar**
 
 * Gmail mail adresi
 * Github hesabı açılması
