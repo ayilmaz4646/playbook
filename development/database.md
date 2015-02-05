@@ -1,6 +1,6 @@
 ## Ruby on Rails Geliştiricileri için PostgreSQL
 
-Bu belgede lab2023 - internet teknolojileri olarak özel projelerde ve SAAS ürünlerimizde kullandığımız PostgreSQL
+Bu belgede code2 - internet teknolojileri olarak özel projelerde ve SAAS ürünlerimizde kullandığımız PostgreSQL
 veritabanını nasıl kullandığımızı dökümante edilmiştir. Aşağıdaki konuları içerir,
 
 * Genel Bilgiler

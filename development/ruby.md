@@ -1,6 +1,6 @@
 # Ruby ekosistemi
 
-lab2023 internet teknolojileri olarak projelerimizi daha çok Ruby ekosisteminde yapmaktıyız.
+code2 internet teknolojileri olarak projelerimizi daha çok Ruby ekosisteminde yapmaktıyız.
 
 ## Ruby
 

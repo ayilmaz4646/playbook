@@ -1,10 +1,7 @@
-Bir uygulamanın müşterinin istediği şekilde tam ve eksiksiz çalışması onu mükemmel yapmaz!. Çünkü müşterilerimiz bizim
-kadar ne **pazarlama** ne de **teknik** bilgiye sahiptir. Bir uygulamanın mükemmel olması için o uygulamanın 
+Bir uygulamanın müşterinin istediği şekilde tam ve eksiksiz çalışması onu mükemmel yapmaz!. Çünkü müşterilerimiz bizim kadar ne **pazarlama** ne de **teknik** bilgiye sahiptir. Bir uygulamanın mükemmel olması için o uygulamanın 
 müşterinin hayallerini gerçekleştirmesine yardımcı olması gerekir.
 
-Eğer müşterinin hayali sahibinden.com gibi bir siteye sahip olmak ise bizim müşterimize, o istemese bile, aşağıdaki 
-maddeleri tek tek anlatmamız ve projeye eklememiz gerekmektedir. Aksi halde uygulama müşterinin isteklerini gerçekleştirse
-bile hayallerini gerçekleştirmeyeceğinden mükemmel bir uygulama olmayacaktır.
+Eğer müşterinin hayali sahibinden.com gibi bir siteye sahip olmak ise bizim müşterimize, o istemese bile, aşağıdaki maddeleri tek tek anlatmamız ve projeye eklememiz gerekmektedir. Aksi halde uygulama müşterinin isteklerini gerçekleştirse bile hayallerini gerçekleştirmeyeceğinden mükemmel bir uygulama olmayacaktır.
 
 # Uygulamanın Performansı ve Ölçeklenmesi
 
@@ -36,7 +33,7 @@ yardımcı olmak zorundayız.
 
 ## AARRR 
 
-AARRR, [Dave McClure](https://twitter.com/davemcclure) tarafından internet projelerinin başarılarının ölçülmesini sağlayan beş aşamadan oluşan bir yöntemdir. Bizler yazılımlarmızı [AARRR](https://github.com/lab2023/playbook/blob/master/tr/901-AARRR.md) süreçlerini destekleyecek şekilde yazmaya özen gösteriyoruz.
+AARRR, [Dave McClure](https://twitter.com/davemcclure) tarafından internet projelerinin başarılarının ölçülmesini sağlayan beş aşamadan oluşan bir yöntemdir. Bizler yazılımlarmızı [AARRR](https://github.com/code2/playbook/blob/master/tr/901-AARRR.md) süreçlerini destekleyecek şekilde yazmaya özen gösteriyoruz.
 
 ## Satış Ortaklığı
 

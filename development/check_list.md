@@ -69,7 +69,7 @@ Bknz [semver.org](semver.org)
 
 **LICENSE.txt dosyasını eklemeliyiz**
 
-MIT candır. Örnek olarak [https://github.com/lab2023/builder/blob/master/LICENSE.txt](https://github.com/lab2023/builder/blob/master/LICENSE.txt)
+MIT candır. Örnek olarak [https://github.com/code2/builder/blob/master/LICENSE.txt](https://github.com/code2/builder/blob/master/LICENSE.txt)
 dosyasına bakabilirsiniz.
 
 **Projeyi [git-flow](https://github.com/nvie/gitflow) ile yönetmeliyiz**
@@ -80,7 +80,7 @@ Etkin geliştirme süreçleri için git branchlar ile manuel uğraşmamamız ger
 
 Oluşturulan haftalık iterasyonlar, milestone'lar ve issue'ların hangi versiyonlara ait olduğunu gösteren genel bir
 changelog oluşturmalıyız. Ve her release'de güncellemeliyiz. Bu süreçleri otomatikleştirmek için hazırladığımız
-ruby rake görevlerini içeren [katip](https://github.com/lab2023/katip) adlı projemize göz atabilirsiniz.
+ruby rake görevlerini içeren [katip](https://github.com/code2/katip) adlı projemize göz atabilirsiniz.
 
 ## Sunucu Kurulumu
 
@@ -101,11 +101,11 @@ ruby rake görevlerini içeren [katip](https://github.com/lab2023/katip) adlı p
 * CHANGELOG.md değişmeli
 * Yeni etiket oluşturulmalı
 * Yeni etiket, master ve develop branch push edilmeli
-* lab2023-dev mail grubuna email atılmalı
+* code2-dev mail grubuna email atılmalı
 
 Sonra
 
-* Yeni versiyon ile ilgili lab2023'e makale yazılmalı.
+* Yeni versiyon ile ilgili code2'e makale yazılmalı.
 * Blog yazısında versiyonda ne olduğu anlatılmalı ve rubygems, changelog gibi unsurlara link verilmeli
 * Blog yazısı twitter ve facebook hesabından paylaşılmalı
 

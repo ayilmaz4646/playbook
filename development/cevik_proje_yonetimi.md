@@ -4,7 +4,7 @@ Proje yönetimi için çevik süreçler kullanılır.
 
 * [Çevik Manifesto](http://agilemanifesto.org/iso/tr/)
 * [Çevik İlkeler](http://agilemanifesto.org/iso/tr/principles.html)
-* [Kanban](http://kanban.lab2023.com) için huboard programını kullanıyoruz.
+* [Kanban](http://kanban.code2.co) için huboard programını kullanıyoruz.
 * Sürüm kontrolü için [semver](http://semver.org/) kullanıyoruz.
 
 # Huboard
@@ -33,7 +33,7 @@ Etiketlerin anlamları:
 
 ## Github ve Etiketler
 
-lab2023 projelerinde github'da 4 adet etiket açılır.
+code2 projelerinde github'da 4 adet etiket açılır.
 
 * **Bug** - Hata bildirimleri için kullanılır.
 * **Enhancement** - Programdaki bir özelliği veya arayüzü iyileştirmek için kullanılır.
@@ -47,7 +47,7 @@ NOT:
 
 # Semantik Versiyonlama
 
-lab2023 olarak www.semver.org adresinde ki standartlara göre versiyonlama yapıyoruz. Bu reponun Türkçesini https://github.com/lab2023/semver/blob/master/semver_tr.md adresinde bulabilirsiniz.
+code2 olarak www.semver.org adresinde ki standartlara göre versiyonlama yapıyoruz. Bu reponun Türkçesini https://github.com/code2/semver/blob/master/semver_tr.md adresinde bulabilirsiniz.
 
 **Kurallar**
 
@@ -60,7 +60,7 @@ lab2023 olarak www.semver.org adresinde ki standartlara göre versiyonlama yapı
 * Eğer X = 0 ise o uygulama stable değildir. Yani her an her şeyi değişebilir. Hala develop aşamasındadır.
 * Her uygulmanın versiyonunu gösteren bir API si olmalıdır. Yani kullancılar, diğer developerlar mutlaka hangi sürümü kullandıklarını bilmelidir! **Bu programcının birinci ve en önemli görevidir.**
 * Versiyonlamada [0-9A-Za-z-] ifadelerini kullanabilirsiniz.
-* 1.0.0-alpha.1 gibi prepatchleri kullanmanızı biz lab2023 olarak önermiyoruz. Hayat zaten yeterince karışık!
+* 1.0.0-alpha.1 gibi prepatchleri kullanmanızı biz code2 olarak önermiyoruz. Hayat zaten yeterince karışık!
 
 # Üretkenlik
 
@@ -72,4 +72,4 @@ Bu bölümde geliştiricilerin üretkenliğini artırmaya yönelik kurallar vard
 * Mümkün olduğunca iki geliştirici bir projede çalışır.
 * Geliştiriciler sorularını mail grubunda sorarlar. Böylece sorular kayıt altına alınır. Aynı sorular iki defa sorulmaz.
 * İletişim aracı olarak sırasıyla 1. mail, 2. gtalk, 3. cep telefonu tercih edilir. Böylece geliştiriciler bir birlerini rahatsız etmez.
-* lab2023 geliştiricilerine donanım, lisans vb unsurları alması için kredi verir, bu konuda maddi olarak destekler.
+* code2 geliştiricilerine donanım, lisans vb unsurları alması için kredi verir, bu konuda maddi olarak destekler.

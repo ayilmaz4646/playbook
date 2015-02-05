@@ -71,7 +71,7 @@ Yukarıdaki kanallardan arama motorları, davetiye sistemi, haber grubu, viral, 
 
 ### Aktivasyon (Activition)
 
-Toplama sonucunda kullanıcılar siteye gelir. Bu andan itibaren aktivasyon süreci başlar. Aktivasyon için bir kriter belirlemeniz gerekmektedir. lab2023 olarak biz atkivasyonu kullanıcıya ulaşabileceğimiz bir yolun açılması olarak görüyoruz.
+Toplama sonucunda kullanıcılar siteye gelir. Bu andan itibaren aktivasyon süreci başlar. Aktivasyon için bir kriter belirlemeniz gerekmektedir. code2 olarak biz atkivasyonu kullanıcıya ulaşabileceğimiz bir yolun açılması olarak görüyoruz.
 
 * En güzeli siteye üye olması
 * RSS Kaydı
