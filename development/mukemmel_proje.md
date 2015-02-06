@@ -1,11 +1,12 @@
-Bir uygulamanın müşterinin istediği şekilde tam ve eksiksiz çalışması onu mükemmel yapmaz!. Çünkü müşterilerimiz bizim kadar ne **pazarlama** ne de **teknik** bilgiye sahiptir. Bir uygulamanın mükemmel olması için o uygulamanın 
-müşterinin hayallerini gerçekleştirmesine yardımcı olması gerekir.
+Bir uygulamanın müşterinin istediği şekilde tam ve eksiksiz çalışması onu mükemmel yapmaz!. Çünkü müşterilerimiz bizim kadar **pazarlama** ya da **teknik** bilgiye sahip değildir. 
+
+Bir uygulamanın mükemmel olması için o uygulamanın müşterinin hayallerini gerçekleştirmesine yardımcı olması gerekir.
 
 Eğer müşterinin hayali sahibinden.com gibi bir siteye sahip olmak ise bizim müşterimize, o istemese bile, aşağıdaki maddeleri tek tek anlatmamız ve projeye eklememiz gerekmektedir. Aksi halde uygulama müşterinin isteklerini gerçekleştirse bile hayallerini gerçekleştirmeyeceğinden mükemmel bir uygulama olmayacaktır.
 
 # Uygulamanın Performansı ve Ölçeklenmesi
 
-İyi bir yazılım performanslı ve ölçeklenebilir olması gerekir.
+İyi bir yazılımın performanslı ve ölçeklenebilir olması beklenir. Ölçeklenebilirlik, müşterinin algıları ile değil, yazılıma gelen taleplerin ne kadar hızlı / güvenilir karşılandığı ile ilgili somut verilerle ölçümlenmelidir.  
 
 ## Veritabanı
 
@@ -57,7 +58,7 @@ Her uygulamanın API'ye ihtiyacı yoktur ancak API'si olan uygulamalar diğer si
 
 Bir uygulama yapması gereken işleri yapmalıdır. Uygulama için destek, geri bildirim gibi ihtiyaçlar 3. parti servisler tarafından karşılanmalıdır.
 
-Bizler destek için http://www.desk.com 'u öneriyoruz. Basitçe özellikleri;
+Bizler destek için http://www.zendesk.com 'u öneriyoruz. Basitçe özellikleri;
 
 * Bilgi Havuzu,
 * Twitter, facebook, e-posta ile gelen soruların bir yerde toplanması,
