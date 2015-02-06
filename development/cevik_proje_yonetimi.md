@@ -1,5 +1,7 @@
 # Çevik Süreçler
 
+![Agile Metodoloji](/images/agile.png)
+
 Code2, proje yönetimi için çevik süreçler kullanır.
 
 * [Çevik Manifesto](http://agilemanifesto.org/iso/tr/)
