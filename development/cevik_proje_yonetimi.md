@@ -1,5 +1,7 @@
 # Çevik Süreçler
 
+![Agile Metodoloji](images/agile.png)
+
 Code2, proje yönetimi için çevik süreçler kullanır.
 
 * [Çevik Manifesto](http://agilemanifesto.org/iso/tr/)
@@ -39,7 +41,7 @@ code2 projelerinde github'da 4 adet etiket açılır.
 
 # Semantik Versiyonlama
 
-code2 olarak www.semver.org adresinde ki standartlara göre versiyonlama yapıyoruz. Bu reponun Türkçesini https://github.com/lab2023/semver/blob/master/semver_tr.md adresinde bulabilirsiniz.
+code2 olarak www.semver.org adresinde ki standartlara göre versiyonlama yapıyoruz. Bu reponun Türkçesini https://github.com/code2co/semver/blob/master/semver_tr.md adresinde bulabilirsiniz.
 
 **Kurallar**
 
