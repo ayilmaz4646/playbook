@@ -18,7 +18,7 @@ uzmanlığı toplamaya çalışmanız beklenir.
 
 Ürün Tasarım Süreçlerine test güdümlü tasarım olarak ta bakılabilir.
 
-![Sprint Aşamaları](../business/images/design_sprint_phases.png)
+![Sprint Aşamaları](../images/design_sprint_phases.png)
 
 ## Hazırlık Çalışmaları
 
