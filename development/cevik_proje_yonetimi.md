@@ -6,12 +6,12 @@ Code2, proje yönetimi için çevik süreçler kullanır.
 
 * [Çevik Manifesto](http://agilemanifesto.org/iso/tr/)
 * [Çevik İlkeler](http://agilemanifesto.org/iso/tr/principles.html)
-* [Kanban](http://kanban.code2.co) için huboard programını kullanıyoruz.
+* [Kanban](http://kanban.code2.co) için [waffle](http://waffle.io) programını kullanıyoruz.
 * Sürüm kontrolü için [semver](http://semver.org/) kullanıyoruz.
 
-# Huboard
+## Waffle
 
-Huboard' un proje üzerinde uygulanması için github'da aşağıdaki 6 + 4 etiket açılır ve ilgli renk kodları düzenlenir:
+Waffle'in proje üzerinde uygulanması için github'da aşağıdaki 6 + 4 etiket açılır ve ilgli renk kodları düzenlenir:
 
 * 0 - Backlog [HEX: #DDDDDD]
 * 1 - Ready [HEX: #FBCA04]
@@ -23,7 +23,7 @@ Huboard' un proje üzerinde uygulanması için github'da aşağıdaki 6 + 4 etik
 * Future [HEX: #E6E6E6]
 
 
-Etiketlerin anlamları:
+### Etiketlerin anlamları:
 
 * 0 - **Backlog** : Müşteri ile görüşülmeye devam eden veya görüşülmüş, detaylandırılması sonuçlanmamış, yani henüz analizi tamamlanmamış iş birimi.
 * 1 - **Ready** : Analizi tamamlanmış, detaylandırılması yapılmış, geliştirilmeye hazır iş birimi
@@ -32,14 +32,14 @@ Etiketlerin anlamları:
 * 4 - **Reviewed** : Geliştiricinin tamamladığı iş birimi kontrol edilmiş, yazım standartlarına uygun olduğu, istenilen işlevi yaptığı ve çalışır olduğu doğrulanmış iş birimi. Üretim ortamına atılabilir, yayınlamaya hazır iş birimi.
 * 5 - **Rejected** : Geliştiricinin tamamladığı iş birimi kontrol edilmiş, ancak yazım standartlarına uyulmadığı, istenilen işlevi yapmadığı veya doğru çalışmadığı tespit edilmiş iş birimi.
 
-## Github ve Etiketler
+### Github ve Etiketler
 
 code2 projelerinde github'da 4 adet etiket açılır.
 
 * **Bug** - Hata bildirimleri için kullanılır.
 * **Future** - Proje süresince müşterinin aklına gelen ancak anlaşmadığımız gelecekte yapılması planlanan işlerdir. Bunlar yapılmaz ancak fikirler unutulmasın diye future etiketi ile etiketlenir.
 
-# Semantik Versiyonlama
+## Semantik Versiyonlama
 
 code2 olarak www.semver.org adresinde ki standartlara göre versiyonlama yapıyoruz. Bu reponun Türkçesini https://github.com/code2co/semver/blob/master/semver_tr.md adresinde bulabilirsiniz.
 
@@ -49,14 +49,14 @@ code2 olarak www.semver.org adresinde ki standartlara göre versiyonlama yapıyo
 * Z -> Uygulamaya yapılan hotfix ve typo düzeltmelerinden de yapılır. Yani uygulamaya yeni bir özellik eklemediyseniz, belli bir yerdeki bir hatayı veya yazıyı değiştirdiyseniz Z sayısı değişir.
 * Y -> Uygulamaya eklenen yeni özellikler, iyileştirmeler sonucunda değişir. Y deki değişiklikler eski kullanıcıları eklemez. Y de ki değişiklikler **GERİYE UYUMLU**dur.
 * X -> Uygulamada yapılan büyük değişikliklerdir. Örneğin yapının komple değişmesi, teknolojinin değişmesi gibi gibi. X de yapılan bir değişiklik **GERİYE UYUMLULUĞU** desteklemez.
-* Bir uygulama 0.1.0 versiyonu ile başlar. 
-* Bir uygulama product olunca 1.0.0 olmalıdır. 
+* Bir uygulama 0.1.0 versiyonu ile başlar.
+* Bir uygulama product olunca 1.0.0 olmalıdır.
 * Eğer X = 0 ise o uygulama stable değildir. Yani her an her şeyi değişebilir. Hala develop aşamasındadır.
 * Her uygulmanın versiyonunu gösteren bir API si olmalıdır. Yani kullancılar, diğer developerlar mutlaka hangi sürümü kullandıklarını bilmelidir! **Bu programcının birinci ve en önemli görevidir.**
 * Versiyonlamada [0-9A-Za-z-] ifadelerini kullanabilirsiniz.
 * 1.0.0-alpha.1 gibi prepatchleri kullanmanızı biz code2 olarak önermiyoruz. Hayat zaten yeterince karışık!
 
-# Üretkenlik
+## Üretkenlik
 
 Bu bölümde geliştiricilerin üretkenliğini artırmaya yönelik kurallar vardır.
 

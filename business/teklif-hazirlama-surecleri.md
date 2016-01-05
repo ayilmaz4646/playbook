@@ -30,18 +30,10 @@ Projenin maliyet hesapları adam gün üzerinden yapılır. Proje maliyeti ortay
 çıkartıldıktan sonra müşteri ile uzlaşılan kapsam ödeme aşamalarına bölünür ve
 her bir aşama tamamlandığında o aşamanın hakedişi olan ödeme yapılır. Yazılım
 projelerinin fiyatlandırılmasında avanslı çalışma esastır ve genellikle, proje
-süresine de bağlı olarak ödemeler 3 ila 4 parça halinde yapılır. 
+süresine de bağlı olarak ödemeler 3 ila 4 parça halinde yapılır.
 
-## Ödeme Planı
+## Cezai Şartlar
 
-Projelerin ödeme planı projenin süresine göre değişmektedir. Ancak ödemeler aylık olmalıdır ve proje bitiminden en fazla iki ay sonrasın son ödeme alınmış olmalıdır.
+Cezai şartlar, eğer projeyi teslim süresine uymazsak firma olarak ödeyeceğimiz günlük ceza bedelidir. Bu bedel projenin toplam bedelinin, iş gününün üç katına bölünmesiyle bulunur.
 
-Örneğin 4 aylık bir projenin yapılabilecek adil anlaşması, bir peşinat dört taksittir ancak bu ödeme planı müşteri açısından zor olursa yapılabilecek en son ödeme planı bir peşinat, alt taksit olabilir.
-
-İkinci örnek olarak bir ay sürecek bir projenin süresinin varsayılan teklifi bir peşinat, bir taksit şeklindeyken, ödeme planı müşteri için uygun değilse bir peşinat, üç taksit yapılabilir.
-
-## Penaltı
-
-Penaltı eğer projeyi teslim süresine uymazsak firma olarak ödeyeceğimiz günlük ceza bedelidir. Bu bedel projenin toplam bedelinin, iş gününün üç katına bölünmesiyle bulunur.
-
-Örneğin 10.000 TL lik ve 20 iş günü sürecek bir projenin günlük penaltı bedeli 10000 / (20 * 3) = 166.6 TL dir.
+Örneğin 10.000 TL lik ve 20 iş günü sürecek bir projenin günlük penaltı bedeli 10000 / (20 * 3) = 166.6 TL dir. Aynı şekilde, müşterinin de kendi yükümlülüklerini yerine zamanında getirmemesi durumunda Code2 olarak projeyi durdurma veya tazminat talep etme hakkını saklı tutarız.

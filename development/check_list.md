@@ -57,10 +57,9 @@ Aşağıdaki kontrol listesini açık Kaynaklı veya özel projeler için uygula
 * Future [HEX: #E6E6E6]
 * Question [HEX: #CC307C]
 
-**README.md dosyasını güncellemeyiliz**
+**README.md dosyasını güncellemeliyiz.**
 
-Bu iş için bir standartınız olursa güzel olabilir.
-Örnek olarak [https://github.com/kebab-project/cybele/blob/develop/README.md](https://github.com/kebab-project/cybele/blob/develop/README.md) dosyasına bakabilirsiniz
+Bu iş için bir standarta ihtiyacınız olursa, [KebapProject/README](https://github.com/kebab-project/cybele/blob/develop/README.md) dosyasına bakabilirsiniz
 
 **VERSION.txt dosyasını eklemeliyiz**
 
@@ -69,8 +68,7 @@ Bknz [semver.org](semver.org)
 
 **LICENSE.txt dosyasını eklemeliyiz**
 
-MIT candır. Örnek olarak [https://github.com/code2/builder/blob/master/LICENSE.txt](https://github.com/code2/builder/blob/master/LICENSE.txt)
-dosyasına bakabilirsiniz.
+MIT candır. Örnek olarak [burada yer alan](business/license.md) dosyasına bakabilirsiniz.
 
 **Projeyi [git-flow](https://github.com/nvie/gitflow) ile yönetmeliyiz**
 
@@ -79,8 +77,7 @@ Etkin geliştirme süreçleri için git branchlar ile manuel uğraşmamamız ger
 **CHANGELOG.md dosyasını oluşturmalıyız**
 
 Oluşturulan haftalık iterasyonlar, milestone'lar ve issue'ların hangi versiyonlara ait olduğunu gösteren genel bir
-changelog oluşturmalıyız. Ve her release'de güncellemeliyiz. Bu süreçleri otomatikleştirmek için hazırladığımız
-ruby rake görevlerini içeren [katip](https://github.com/code2/katip) adlı projemize göz atabilirsiniz.
+changelog oluşturmalıyız.
 
 ## Sunucu Kurulumu
 
@@ -101,11 +98,10 @@ ruby rake görevlerini içeren [katip](https://github.com/code2/katip) adlı pro
 * CHANGELOG.md değişmeli
 * Yeni etiket oluşturulmalı
 * Yeni etiket, master ve develop branch push edilmeli
-* code2-dev mail grubuna email atılmalı
 
 Sonra
 
-* Yeni versiyon ile ilgili code2'e makale yazılmalı.
+* Yeni versiyon ile ilgili code2 bloguna makale yazılmalı.
 * Blog yazısında versiyonda ne olduğu anlatılmalı ve rubygems, changelog gibi unsurlara link verilmeli
 * Blog yazısı twitter ve facebook hesabından paylaşılmalı
 
@@ -119,5 +115,3 @@ NOT: Kendinize işkence yapmayın! Git-flow kullanın.
 * Yeni etiket, master ve develop branch push edilmeli
 * Proje email grubuna email atılmalı
 * Staging sunucusuna deploy edilmeli
-
-NOT: Hotfix olmadıkça yeni sürümler cumadan cumaya çıkar.

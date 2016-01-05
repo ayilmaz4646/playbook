@@ -1,51 +1,42 @@
 # Geliştirme Ortamın Ayarlanması
 
-## Mac
-
 ### İletişim
 
-* GTalk
-* Google Mail grubu
-* Xchat Azur
+Code2 geliştirme ekibinin iç iletişimi için Slack kullanır. Neredeyse
+herşeyi Slack üzerinden yapabildiğimiz için email daha çok müşteri
+ilişkilerinde gerekli oluyor.
 
 ### İş Takibi
 
 * Basecamp
-
-### Üretkenlik
-
-* Google Chrome
-* Twitter
-* Marked
-* Keynote
-* iBook
-* KeepAssX-2.0
-* Camtasia for mac
-* Mac Keeper
-* Dropbox
+* Waffle
+* Github Issues (Waffle'ın yetersiz kaldığı durumlarda)
 
 ### Tasarım
 
-* Pixelmator
-* GIMP
+* Photoshop
+* Adobe Illustrator
+* Balsamiq (Wireframing için)
+
+### Temalar
+
+*Proje süresi veya gereksinimleri nedeniyle hazır tema kullanımı*
+
+* Themeforest (Account username & password sorunuz)
+* Wrapbootstrap
+* Bootswatch
 
 ### Geliştirme 
 
-* SourceTree
-* Sublime 2
-* RubyMine
+* Sublime Text 2
+* Vim + Tmux (Sublime Alternatifi)
 * FileZilla
-* Dash
-* http://www.iterm2.com/
-* Virtual Box
+* iTerm2
 
 ### Kütüphane
 
-* xCode
-* Command Line within xCode
-* Mac Intstaller
-* Pow
-
-## Ubuntu
-
+* Apt-get
+* Yum
+* Elasticsearch 
+* Redis
 * Rbenv

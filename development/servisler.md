@@ -8,15 +8,9 @@ Versiyon kontrol, issue tracker için www.github.com kullanıyoruz.
 
 Arayüz çizimi için http://www.balsamiq.com/ kullanıyoruz.
 
-## Gtmetric
+## Waffle
 
-Web sitesinin performans analizi için http://gtmetrix.com/ kullanıyoruz.
-
-## Huboard
-
-Github issue ve milestonelardan aldığı bilgiler ile Scrum yapmamıza yarayan yazılımdır. Kendisini code2.co altına kuruyoruz.
-
-* http://huboard.com/
+Github issue ve milestonelardan aldığı bilgiler ile Scrum yapmamıza yarayan yazılımdır. 
 
 ## İş Takibi
 
