@@ -71,3 +71,49 @@ kullanılabilecek harika bir soru şudur :
 ![Kritik Yol](../images/criticalpath.jpg)
 
 Kritik yolu aşamalar ilerledikçe gözden geçirerek geliştireceğiz.
+
+## Dağıl
+
+Bu bölümdeki egzersizler hayal gücümüzü, kullanıcının ihtiyacı olan potansiyel
+çözümler için geniş biçimde kullanmamıza yardımcı olur.
+
+Bu aşamadan önce, ekibin tümü odada dolaşarak duvarlardaki yapışkan notları
+inceler, kritik yol ile karşılaştırır ve kritik yola eklenmesi gerektiği halde
+eklenmeyen bir özellik olup olmadığına bakar.
+
+Bu bölüme yine sunum çalışması ile başlar ve sunumda ifade edilenleri kritik yol
+ile karşılaştırırız.
+
+Daha sonra ekipteki herkesin 10 veya daha üzerinde [kullanıcı akışı]((https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows) ve kullanıcı arayüzü çizmelerini istiyoruz. İnsanlara kullanıcıların uygulamaya gelecekleri kaynakları da dahil etmelerini söylüyoruz: Twitter? Blog gönderisi? Adwords? Otomatik öneriler? Email? Bir arkadaşın tavsiyesi? Anlık bildirim?
+
+Eğer ürün gerçekleşirse, bu kaynaklar sonunda [Google Analytics içinde bulunan
+"Edinme Kanalları"](http://analytics.blogspot.com/2013/10/new-acquisitions-reporting-channels.html) raporunda ölçümlenecek.
+
+![Edinme Kanalları](images/acquisitionchannels.jpg)
+
+Dhaa sonra bu eskizleri bir duvara koyuyor ve sessiz bir kritik seansına
+girişiyoruz, gözlem yaparak ve sevdiğimiz arayüzlerin üzerine yapışkanlı işaretler koyarak ilerliyoruz. Herhangi bir fikri yargılamıyor veya yüceltmiyoruz. Bu oylama
+süreci uzun tartışmaları ve komite tarafından tasarımı önlüyor.
+
+Son olarak, daha büyük yapışkanlı işaretler koyarak bir "süper oylama"
+yapıyoruz. CEO veya ürünün sahibi her kimse o, en iyi fikirlerin üzerine büyük
+bir "süper oy" yapıştırıyor. Bu bize müşteri organizasyonunun nasıl düşündüğünü
+anlama ve otoritelerini pekiştirme şansı veriyor.
+
+Bizim deneyimimize göre bu aşama gerçekten zihinsel olarak çok yıpratıcı.
+Önerimiz bu aşamadan sonra daha fazla devam etmeyip erken bitirmeniz ve ekibi
+yeniden şarj olmaları için eve göndermeniz.
+
+## Toplanın
+
+Bu bölümdeki egzersizler bize yeni çözümler üretmeyi durdurmakta ve mevcut
+çözümler arasında en iyi olanlara odaklanmakta, aynı zamanda da prototip için
+testleri yazmakta yardımcı oluyor.
+
+Öncelikle, en iyi tasarım fikirleri içinde varolan varsayımları tanımlıyoruz.
+Kullanıcıların motivasyonlarıyla, iş modeliyle, kullanıcıları edinebilme
+kabiliyetimizle ve bütçe içinde çözümü uygulayabilme kabiliyetimizle ilgili tüm
+varsayımları tanımlıyoruz. Bunun bazı seçenekleri elememiz konusunda yardımı
+dokunuyor.
+
+![Varsayımlar](../images/assumptions.jpg)
