@@ -38,4 +38,36 @@ Aynı zamanda biz de bazı (ücretli) çalışmalar yapabiliriz.
 * [Kullanıcı görüşmeleri](http://www.nngroup.com/articles/interviewing-users/) planlayabilir ve yapabiliriz.
 * Kullanıcılara ilişkin, sonuçlarının ilk aşamada tartışılacağı bir [anket](http://www.google.com/insights/consumersurveys/use_cases) çalışması yapabiliriz.
 
+Genellikle ilk gün haricinde yemek için durduğumuz bir aktiviteden söz
+etmiyoruz, bunun yerine ayaküstü birşeyler atıştırıp kısa molalar sonrasında
+devam ettiğimiz bir aktivite oluyor.
 
+## Anlayın
+
+Bu aşamadaki alıştırmalar bizim için kullanıcılarımızın hayatını (tüketici
+yazılımları) veya işini (iş yazılımları) anlayıp empati kurmak için gerekli faaliyetlerdir.
+
+Bu aşama boyunca insanlar çoğunlukla post-it benzeri şeylerin üzerine not alır,
+ve bulundukları odanın duvarlarına yapıştırırlar.
+
+Bu aşamaya sunum egzersizi ile başlarız. Burada müşteri, ürününü tıpkı bir
+yatırımcıya anlatır gibi anlatır. Bu deney bizim kullanıcıyı tanımamıza,
+sorunlarını ve bu sorunu çözmek için kullandıkları ürünleri anlamamıza yardımcı
+olur. Aynı zamanda yazılımın hizmet edeceği alan ile ilgili kelime haznesini de
+oluşturmaya başlar.
+
+Daha sonra, o zamana kadar yukarıda sayılan kaynaklar üzerinden yapılmış
+araştırmaları inceleriz. Bu araştırmalar bize kullanıcılarımızın
+motivasyonlarını, pazarlama kanallarını ve hedef pazarların büyüklüğünü
+anlamamız konusunda yardımcı olur. 
+
+Son olarak, tasarım sürecinin geri kalanının odaklanacağı şeyin eskizini
+çıkartırız : yazılımın kritik yolu. Bu aşamada bunu olabildiğince konseptüel ve
+detaylardan uzak tutmaya çalışırız. Kritik yolu ortaya çıkartırken
+kullanılabilecek harika bir soru şudur :
+
+> [Kullanıcı ürünü hangi işi yapmak için kiralıyor?]((http://www.youtube.com/watch?v=f84LymEs67Y)
+
+![Kritik Yol](../images/criticalpath.jpg)
+
+Kritik yolu aşamalar ilerledikçe gözden geçirerek geliştireceğiz.
