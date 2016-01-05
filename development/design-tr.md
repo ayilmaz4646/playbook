@@ -66,7 +66,7 @@ Son olarak, tasarım sürecinin geri kalanının odaklanacağı şeyin eskizini
 detaylardan uzak tutmaya çalışırız. Kritik yolu ortaya çıkartırken
 kullanılabilecek harika bir soru şudur :
 
-> [Kullanıcı ürünü hangi işi yapmak için kiralıyor?]((http://www.youtube.com/watch?v=f84LymEs67Y)
+>[Kullanıcı ürünü hangi işi yapmak için kiralıyor?]((http://www.youtube.com/watch?v=f84LymEs67Y)
 
 ![Kritik Yol](../images/criticalpath.jpg)
 
