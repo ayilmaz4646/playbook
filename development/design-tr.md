@@ -1,4 +1,4 @@
-# Ürün Tasarım Süreci
+
 Orjinali : [Thoughtbot Playbook](http://playbook.thoughtbot.com)
 
 > "Çoğu insan tasarımın bir şeyin nasıl göründüğüne dair bir konu olduğu
@@ -14,7 +14,7 @@ Süreçler bir ürün veya iş akışı ortaya çıkartırken iyi başlangıç n
 aynı zamanda var olan ürünlerle ilgili olarak mevcut sorunları çözerken de
 faydalı araçlar oluştururlar. Genellikle 5 gün sürerler ama daha az zamanda da
 tamamlanabilirler. Başlangıç olarak bir odanın içine olabildiğince paydaşı ve
-uzmanlığı toplamaya çalışmanız beklenir. 
+uzmanlığı toplamaya çalışmanız beklenir.
 
 Ürün Tasarım Süreçlerine test güdümlü tasarım olarak ta bakılabilir.
 
@@ -33,7 +33,7 @@ bilgi toplarlar :
 * [Google Analtyics](http://analytics.google.com)
 * [Adwords Anahtar Kelime Planlayıcı](https://adwords.google.com/ko/KeywordPlanner/Home)
 
-Aynı zamanda biz de bazı (ücretli) çalışmalar yapabiliriz. 
+Aynı zamanda biz de bazı (ücretli) çalışmalar yapabiliriz.
 
 * [Kullanıcı görüşmeleri](http://www.nngroup.com/articles/interviewing-users/) planlayabilir ve yapabiliriz.
 * Kullanıcılara ilişkin, sonuçlarının ilk aşamada tartışılacağı bir [anket](http://www.google.com/insights/consumersurveys/use_cases) çalışması yapabiliriz.
@@ -59,7 +59,7 @@ oluşturmaya başlar.
 Daha sonra, o zamana kadar yukarıda sayılan kaynaklar üzerinden yapılmış
 araştırmaları inceleriz. Bu araştırmalar bize kullanıcılarımızın
 motivasyonlarını, pazarlama kanallarını ve hedef pazarların büyüklüğünü
-anlamamız konusunda yardımcı olur. 
+anlamamız konusunda yardımcı olur.
 
 Son olarak, tasarım sürecinin geri kalanının odaklanacağı şeyin eskizini
 çıkartırız : yazılımın kritik yolu. Bu aşamada bunu olabildiğince konseptüel ve
@@ -117,3 +117,95 @@ varsayımları tanımlıyoruz. Bunun bazı seçenekleri elememiz konusunda yard�
 dokunuyor.
 
 ![Varsayımlar](../images/assumptions.jpg)
+
+Daha sonra geriye kalan notlar, kullanıcı akışları ve arayüzler arasında bırakmış olabileceğimiz çelişkilere göz atıyoruz: aynı sorunu farklı şekillerde çözmeye çalışan fikirler. Hemen uygulamaya geçirilemeyecek çözümleri eliyoruz.
+
+Daha sonra, tek bir prototip mi (en iyi atış) çoklu alternatifler mi (kraliyet savaşı) kararını vereceğimiz aşama geliyor. Birden fazla prototip daha fazla giriş seviyesinde iş anlamına geliyor ama aynı zamanda daha fazla çıkmaz sokağı keşfetmemizi sağlayabilir. Bu da sonraki tasarım süreçlerinde kurşunlardan korunmamızı sağlayacaktır.
+
+Daha sonra, kaç tane üretmeye karar verdiysek tüm prototipleri storyboard haline getiriyoruz. Storyboard, kullanıcımızın uygulama üzerinde gerçekleştirdiği akışların karikatürize bir halidir.
+
+![Storyboard](../images/storyboard.jpg)
+
+Son olarak test senaryosunu Google Docs üzerinde oluşturuyoruz ve gözlem odasını
+n duvarına bir skorboard asıyoruz. Script daha önce oluşturulan storyboard'a
+dayanıyor ve skorbordu da testin sonuçlarını kaydetmek için kullanacağız. Bu
+bize öğrenmeye çalıştığımız şey konusunda olabildiğince berrak olmamız konusunda
+yardımcı olacak.
+
+## Prototip
+
+Askerleri toplamak için yeni bir sunumdan sonra, artık içinde herhangi bir
+egzersiz olmayan bölüme geliyoruz. Bu aşama tümüyle doğru prototipleri üretmek
+üzerine kurulu. Prototipler yeterli seviyede orjinal fikre sadık olmalı ki,
+doğru kullanıcı test sonuçları üretilebilsin.
+
+Tüm aşama boyunca, müşterilerimizden Google Docs üzerine sitede kullanılacak
+metinleri yazmalarını istiyoruz. [Gerçek metin](http://gettingreal.37signals.com/ch11_Use_Real_Words.php) kullanıyorlar, lorem ipsum değil. Kullanıcının mesajı anlayıp anlamadığını ve heyecanını test etmenin yolu bu. Bu metinler daha sonra tweet, basın vs için de yararlı oluyor.
+
+Müşterilerimiz sitenin iletişimini cilalarken biz de prototiplemeye
+odaklanıyoruz. Tasarımcı ve projeye bağlı olarak farklı araçlar kullanıyoruz.
+
+Web uygulaması prototipleri için, bazı iyi seçenekler :
+
+*   [Squarespace](http://www.squarespace.com) temaları
+*   [Bourbon](http://bourbon.io) + [Neat](http://neat.bourbon.io) +
+[Bitters](http://bitters.bourbon.io) lokalde geliştirme
+*   [Invision](http://www.invisionapp.com)
+
+Mobil Uygulama prototipleri için, bazı iyi seçenekler :
+
+*   [Flinto](https://www.flinto.com) +
+[Sketch](https://itunes.apple.com/us/app/sketch/id402476602?mt=12)
+*   [Prototyping on Paper](https://popapp.in/)
+
+Bu ürünleri tasarım sürecinde öğrenmeye uğraşmayın. Onlarla boş zamanınızda
+tanışın ve süreç sırasında gerçekten üzerinde ustalaştığınızı kullanın.
+
+## Test Et ve Öğren
+
+Son olarak, 5 kullanıcı ile  onları anlayıp anlamadığımızı, onların bağlamını ve
+kendi prototipimizi doğru eşleştirip eşleştirmediğimizi anlamak için
+söyleşiyoruz. Bu bir kullanım testi değil. Onlarla konuşmaya henüz prototipi
+göstermeden başlıyoruz.
+
+Tasarımcılarımızdan biri her bir kullanıcı ile görüşüyor. Onları bir görüşme
+odasında, video ve ses kaydı çalışırken bir araya getiriyoruz ve diğer proje
+paydaşları görüşmeyi izlerken tartışıp sonuçları skorborda kaydediyorlar.
+
+İyi sorular, genellikle açık uçlu olarak kullanıcının hikaye anlatmasını
+isteyenlerdir:
+
+> "Bize bir sivil toplum kuruluşuna bağış yaptığınız zamandan bahseder
+> misiniz?"
+
+Kullanıcıları beklenen bir yanıta yönlendirmeyin.
+
+> "eğer imkanınız olsa bir kamu okuluna bağış yapar mıydınız?"
+
+Diyalogu kapatmayın. 
+
+> "Geçtiğimiz hafta içinde bir kuruma bağış yaptınız mı?"
+
+Yeni bir ürün için, herhangi bir ekibin ilk tasarım sürecin sonunda doğru çözümü
+bulması olası değildir. En muhtemel olasılık, müteakip bir tasarım süreci daha
+başlatıp, Dağıl veya Toplan aşamasından başlayarak yeni kullanıcılarla test
+etmektir.
+
+Bir veya iki süreç sonunda, genellikle pek çok varsayımımızı doğrulamış, berrak
+bir kritik yolu ortaya çıkartmış ve daha geniş bir kitleye ulaşmak için ilk
+versiyonu kodlamaya başlamış oluruz.
+
+Web uygulamaları çin genelllikle ilk versiyonu 4-6 hafta arasında yayınlarız.
+Mobil uygulamalar için ilk betayı 6-8 hafta içinde [HockeyApp](http://hockeyapp.net) ile yayınlar ve 8-10 hafta içinde App Store'a koymuş oluruz.
+
+Bu zaman dilimleri göz önüna alınırsa, 2 ila 5 gün sürecek ikinci hatta üçüncü
+bir tasarım sürecini organize etmek geri dönüşe değerdir. Aksi taktirde, projeye
+harcanan zaman ve paranın 4 ila 10 katını harcayabilirsiniz.
+
+Tasarım sürecinin bir başka çıktısı, çözülmemiş müşteri derdi, bulanık
+bırakılmış bir iş modeli veya olumlu ya da olumsuz olarak test edilmemiş
+varsayım bırakmamasıdır. Doğru bildiğiniz şeylerde yanılmak duygusal olarak zor
+olsa da, başarıdır. Size zaman ve para kazandırır.
+
+Bu aşamayı da ileriye dönük bir planla kapattıktan sonra tasarım sürecini
+tamamlıyoruz.
