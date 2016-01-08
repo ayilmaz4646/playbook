@@ -7,6 +7,7 @@ Hoşgeldiniz. Bugün itibariyle Code2'de çalışmaya başlıyorsunuz ve bu meti
 size yol göstermesini umuyoruz. Lütfen aşağıdaki dökümanları okuyun.
 
 * [Yaptığımız işi neden yapıyoruz?](business/why.md)
+* [Projeler nasıl prototip haline geliyor?](development/design-tr.md)
 * [Projeleri nasıl planlıyoruz?](development/cevik_proje_yonetimi.md)
 * [Teklif hazırlama süreçleri nasıl
 *  gerçekleşiyor?](business/teklif-hazirlama-surecleri.md)
