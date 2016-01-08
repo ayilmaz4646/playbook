@@ -1,4 +1,4 @@
-![Sprint](../images/spring.jpg)
+![Sprint](../images/sprint.jpg)
 
 # Ürün Tasarım Süreci
 
