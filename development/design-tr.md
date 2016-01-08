@@ -1,3 +1,6 @@
+![Sprint](../images/spring.jpg)
+
+# Ürün Tasarım Süreci
 
 Orjinali : [Thoughtbot Playbook](http://playbook.thoughtbot.com)
 
@@ -42,7 +45,7 @@ Genellikle ilk gün haricinde yemek için durduğumuz bir aktiviteden söz
 etmiyoruz, bunun yerine ayaküstü birşeyler atıştırıp kısa molalar sonrasında
 devam ettiğimiz bir aktivite oluyor.
 
-## Anlayın
+## Anla
 
 Bu aşamadaki alıştırmalar bizim için kullanıcılarımızın hayatını (tüketici
 yazılımları) veya işini (iş yazılımları) anlayıp empati kurmak için gerekli faaliyetlerdir.
@@ -104,7 +107,7 @@ Bizim deneyimimize göre bu aşama gerçekten zihinsel olarak çok yıpratıcı.
 Önerimiz bu aşamadan sonra daha fazla devam etmeyip erken bitirmeniz ve ekibi
 yeniden şarj olmaları için eve göndermeniz.
 
-## Toplanın
+## Toplan
 
 Bu bölümdeki egzersizler bize yeni çözümler üretmeyi durdurmakta ve mevcut
 çözümler arasında en iyi olanlara odaklanmakta, aynı zamanda da prototip için
@@ -132,7 +135,7 @@ dayanıyor ve skorbordu da testin sonuçlarını kaydetmek için kullanacağız.
 bize öğrenmeye çalıştığımız şey konusunda olabildiğince berrak olmamız konusunda
 yardımcı olacak.
 
-## Prototip
+## Prototiple
 
 Askerleri toplamak için yeni bir sunumdan sonra, artık içinde herhangi bir
 egzersiz olmayan bölüme geliyoruz. Bu aşama tümüyle doğru prototipleri üretmek
