@@ -89,7 +89,7 @@ Daha sonra ekipteki herkesin 10 veya daha üzerinde [kullanıcı akışı]((http
 Eğer ürün gerçekleşirse, bu kaynaklar sonunda [Google Analytics içinde bulunan
 "Edinme Kanalları"](http://analytics.blogspot.com/2013/10/new-acquisitions-reporting-channels.html) raporunda ölçümlenecek.
 
-![Edinme Kanalları](images/acquisitionchannels.jpg)
+![Edinme Kanalları](../images/acquisitionchannels.jpg)
 
 Dhaa sonra bu eskizleri bir duvara koyuyor ve sessiz bir kritik seansına
 girişiyoruz, gözlem yaparak ve sevdiğimiz arayüzlerin üzerine yapışkanlı işaretler koyarak ilerliyoruz. Herhangi bir fikri yargılamıyor veya yüceltmiyoruz. Bu oylama
