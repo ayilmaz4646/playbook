@@ -7,12 +7,9 @@ Hoşgeldiniz. Bugün itibariyle Code2'de çalışmaya başlıyorsunuz ve bu meti
 size yol göstermesini umuyoruz. Lütfen aşağıdaki dökümanları okuyun.
 
 * [Yaptığımız işi neden yapıyoruz?](business/why.md)
-* [Projeler nasıl prototip haline geliyor?](development/design-tr.md)
 * [Projeleri nasıl planlıyoruz?](development/cevik_proje_yonetimi.md)
-* [Teklif hazırlama süreçleri nasıl
-*  gerçekleşiyor?](business/teklif-hazirlama-surecleri.md)
-* [Design Sprint](development/design.md) nedir? Ürün gelistirilmesinde nasıl
-  kullanılır?
+* [Teklif hazırlama süreçleri nasıl gerçekleşiyor?](business/teklif-hazirlama-surecleri.md)
+* [Projeler nasıl prototip haline geliyor?](development/design-tr.md)
 * [İyi bir proje ne demektir?](development/mukemmel_proje.md)
 * [Laptopunuza / Bilgisayarınıza Neleri Kurmalısınız?](development/laptop.md)
 * [Git İş Akışları Nasıl Çalışıyor?](development/git_github_gitflow.md)
